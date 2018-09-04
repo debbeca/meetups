@@ -1,0 +1,16 @@
+takeen le 30/05/2018
+speaker : Gaël Bonnardot
+
+Big Data & NLP : Embedding in Production
+alors on nous a présenté trois descripteur de texte super intéressants:
+
+FastText : une librairie Open Source créé par Facebook. similaire au N-gram, (i.e découpe la phrase en lettres)  il permet de mieux décrire les mots rares dans plus que 200 langues. 
+
+CBOW : similaire au skip gram. ce vecteur permet de prédire un mot à partir de son contexte. ie, les mot à gauche et à droite dans une phrase.  pour une phrasé " the quick brown fox jumps over the lazy dog". pour prédire par exemple " quick" on a besoin de (the, brown). 
+
+GloVe : se base sur le calcul de concurrence d'un terme dans un corpus pour calculer la probabilité d'existence d'un terme à partir d'un contexte. 
+
+ensuite une session de live coding pour faire une classification de texte avec  les algorithmes cités précédemment sur les outils suivant : 
+
+jjupyter python notebook
+parallel computing avec Dask
