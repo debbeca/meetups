@@ -1,0 +1,4 @@
+Le premier speaker pense qu'on peut substituer un orchestrateur par du Spring. Ça m'a un peu révolté. En plus ils ont fait une implémentation Spring core. Sauf que Spring travaille déjà sur l'adaptation de spark dans spring integration.
+Ya même une implémentation hdfs de Spring data !!! Bref. 
+Deuxième sujet. Un mec de hortonworks a présenté Apache metron. J'avais envie de dormir. 
+Sinon le dernier speech très intéressant sur SQL++ et les performances de certaines requêtes faisant des produits cartésiens de plusieurs milliards de tuples. Plusieurs dbnosql l'ont déjà intégré. Sauf que hive ne le fait pas
