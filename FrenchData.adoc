@@ -1,0 +1,36 @@
+
+
+Meetup French Data
+04/07/2018
+les gagnants de meilleurs data scientist de France présentent leurs solution.  voir le lien pour plus de détails  :
+https://www.meilleurdatascientistdefrance.com/
+sinon les startups presentes :
+ http://prevision.io
+http://craft.ai
+http://dcbrain.com
+
+prevision.io
+machine learning pipeline processing. 
+automatiser le Machine learning.
+  
+app.prevision.io
+
+nikita:
+tf idf 
+lighgbm
+xgboost
+
+jonas
+
+gradient boosting
+ label encoding des dates 
+
+craft.ai
+energy
+les poubelles du 14emen
+
+
+dcbrain
+http://dcbrain.com
+ 
+
